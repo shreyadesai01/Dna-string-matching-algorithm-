@@ -12,6 +12,7 @@ public class FinalProject {
     
     private static int[] lookup = new int[256];
     private static int count = 0;
+    
 
     /**
      * This is the main method of the class
